@@ -92,7 +92,12 @@ function commands(input){
         	}else{
         		console.log("Sorry, parking lot is full");
         	}
-	        break;
+			break;
+ 		case "exit":
+				console.log("Exit");
+				process.exit()
+			break;
+
 	}
 	interact();
 }

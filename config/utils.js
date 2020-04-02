@@ -88,6 +88,9 @@ module.exports = {
         }else{
 			return null;
 		}
+	},
+	exit : function(){
+			return 0;
     }
 };
 

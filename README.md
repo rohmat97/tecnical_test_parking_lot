@@ -12,6 +12,10 @@
 
 ### run
 - npm run run
+
+### exit
+- exit
+
 <br/>
 
 ## Maintainer

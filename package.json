@@ -1,0 +1,27 @@
+{
+  "name": "test_parking_lot",
+  "version": "1.0.0",
+  "description": "parking-ticketing",
+  "main": "server.js",
+  "dependencies": {
+    "chai": "^1.10.0",
+    "commander": "^5.0.0",
+    "content-disposition": "^0.5.3",
+    "express": "^4.17.1",
+    "mocha": "^2.0.1"
+  },
+  "scripts": {
+    "test": "mocha **test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohmat97/tecnical_test_parking_lot.git"
+  },
+  "author": "Rohmat Dasuki",
+  "bugs": {
+    "url": "https://github.com/rohmat97/tecnical_test_parking_lot/issues"
+  },
+  "homepage": "https://github.com/rohmat97/tecnical_test_parking_lot#readme",
+  "devDependencies": {},
+  "license": "ISC"
+}

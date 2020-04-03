@@ -3,8 +3,6 @@
 ## Instructions to run: 
 ### install and run
 - ./parking_lot.sh
-<<<<<<< HEAD
-=======
 
 ### test (after install)
 - npm run test
